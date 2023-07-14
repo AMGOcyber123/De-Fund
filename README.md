@@ -1,2 +1,2 @@
 # De-Fund
-# decentralized Crowdfunding Platform
+## Decentralized Crowdfunding Platform
